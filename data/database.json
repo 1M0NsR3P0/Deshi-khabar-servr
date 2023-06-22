@@ -1,0 +1,1444 @@
+[
+    {
+        "id" :  1123356,
+      "name": "Zakir Hossain",
+      "bio": "Zakir Hossain is a well-known chef in Bangladesh, with over 20 years of experience in cooking Bangladeshi cuisine. He started his career as a trainee chef in a popular restaurant in Dhaka, and quickly rose through the ranks with his passion for cooking and creativity in the kitchen. Over the years, Zakir has developed a reputation for his innovative approach to traditional Bangladeshi dishes, and is highly sought after by food enthusiasts for his unique recipes. In his free time, Zakir enjoys experimenting with new ingredients and techniques, and is always on the lookout for inspiration for his next creation.",
+      "image": "https://menafn.com/updates/pr/2019-01/BM_4a3aa336-cimage_story.jpg",
+      "experience": 20,
+      "likes": 10000,
+      "recipes": [
+        {
+          "name": "Chingri Malai Curry",
+          "type": "Seafood",
+          "description": "Chingri Malai Curry is a classic Bengali dish that combines succulent prawns with a rich and creamy coconut sauce. The prawns are first marinated in a mixture of spices, then cooked in the curry sauce until tender and flavorful. This dish is best served with steamed rice or naan bread.",
+          "image": "https://i.ibb.co/xHYbs5y/chingri-malai-curry-end.jpg",
+          "ingredients": [
+            "500g prawns",
+            "1 cup coconut milk",
+            "1 onion, chopped",
+            "1 tsp garlic paste",
+            "1 tsp ginger paste",
+            "1/2 tsp turmeric powder",
+            "1/2 tsp red chili powder",
+            "2 green chilies, sliced",
+            "2 tbsp vegetable oil",
+            "Salt to taste"
+          ],
+          "cooking_method": 
+          "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+          "rating": 4.8
+        },
+        {
+          "name": "Hilsha Curry",
+          "type": "Fish",
+          "description": "Hilsha Curry is a spicy and flavorful dish that is popular in Bangladesh. The dish is made with fresh Hilsha fish, which is cooked in a rich and aromatic gravy made with onions, tomatoes, and a blend of spices. This dish is best served with steamed rice and a side of vegetable curry.",
+          "image": "https://i.ibb.co/F0nTXY5/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
+          "ingredients": [
+            "4 pieces of hilsha fish",
+            "1 onion, chopped",
+            "1 tsp garlic paste",
+            "1 tsp ginger paste",
+            "1 tomato, chopped",
+            "1/2 tsp turmeric powder",
+            "1/2 tsp cumin powder",
+            "1/2 tsp coriander powder",
+            "1/2 tsp red chili powder",
+            "2 green chilies, sliced",
+            "2 tbsp vegetable oil",
+            "Salt to taste"
+          ],
+          "cooking_method": 
+          "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+          "rating": 4.6
+        },
+        {
+          "name": "Bhuna Khichuri",
+          "type": "Vegetarian",
+          "description": "Bhuna Khichuri is a comforting and hearty dish that is popular in Bangladesh. It is made with a mix of lentils, rice, and vegetables, which are cooked together with a blend of spices and ghee. This dish is best served with a side of fried eggplant and pickles.",
+          "image": "https://i.ibb.co/2nPQRXY/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+          "ingredients": [
+            "1 cup of rice",
+            "1/2 cup of split yellow lentils",
+            "1 onion, chopped",
+            "1 teaspoon of garlic paste",
+            "1 teaspoon of ginger paste",
+            "2 green chilies, chopped",
+            "1 teaspoon of cumin powder",
+            "1/2 teaspoon of coriander powder",
+            "1/2 teaspoon of turmeric powder",
+            "1/4 teaspoon of chili powder",
+            "3 tablespoons of ghee",
+            "Salt to taste",
+            "4 cups of water"
+          ],
+          "cooking_method": 
+          "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+          "rating": 4.5
+        },
+        {
+          "name": "Pitha",
+          "type": "Snack",
+          "description": "Pitha is a type of traditional Bangladeshi snack that is often served during festivals and celebrations. It is made with a mix of rice flour and jaggery, which is then shaped into small balls and fried until golden brown. Pitha can be served plain or with a variety of sweet or savory toppings.",
+          "image": "https://i.ibb.co/F0nTXY5/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
+          "ingredients": [
+            "1 cup rice flour",
+            "1 cup jaggery",
+            "1/2 cup water",
+            "1/4 tsp salt",
+            "Oil for frying"
+          ],
+          "cooking_method": 
+          "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+          "rating": 4.5
+        },
+        {
+          "name": "Kala Bhuna",
+          "type": "Beef",
+          "description": "Kala Bhuna is a spicy and flavorful beef curry that is popular in Bangladesh. The dish is made with tender pieces of beef, which are cooked with a blend of spices and onions until the meat is tender and the sauce is thick and aromatic. This dish is best served with steamed rice or naan bread.",
+          "image": "https://i.ibb.co/j8kFTyL/banner-5.jpg",
+          "ingredients": [
+            "1 lb. beef, cut into small pieces",
+            "2 onions, finely chopped",
+            "2 tomatoes, finely chopped",
+            "1 teaspoon of garlic paste",
+            "1 teaspoon of ginger paste",
+            "2 green chilies, chopped",
+            "1 teaspoon of cumin powder",
+            "1/2 teaspoon of coriander powder",
+            "1/2 teaspoon of turmeric powder",
+            "1/4 teaspoon of chili powder",
+            "3 tablespoons of oil",
+            "Salt to taste",
+            "2 cups of water"
+          ],
+          "cooking_method": 
+          "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+          "rating": 4.3
+        }
+      ]
+    },
+    {
+        "id" :  2125256,
+        "name": "Masum Rahman",
+        "bio": "Moushumi Rahman is a renowned chef in Bangladesh, known for her expertise in Bangladeshi cuisine. She has over 15 years of experience in the culinary industry, and has worked in several popular restaurants in Dhaka. Moushumi is particularly known for her skill in creating fusion dishes that combine traditional Bangladeshi flavors with modern techniques and ingredients. In her spare time, she enjoys experimenting with different flavor combinations and creating new dishes.",
+        "image": "https://i2-prod.cambridge-news.co.uk/incoming/article20096098.ece/ALTERNATES/s1200c/0_Julal-Syed-from-Taj-Tandoori.jpg",
+        "experience": 15,
+        "likes": 8000,
+        "recipes": [
+            {
+                "name": "Biryani",
+                "type": "Rice",
+                "description": "Biryani is a classic Bangladeshi dish made with aromatic rice and meat, usually beef or chicken. The meat is first marinated with spices and yogurt, and then cooked with rice and a blend of spices, including cinnamon, cardamom, and bay leaves. This dish is typically served with raita, a yogurt-based sauce.",
+                "image": "https://i.ibb.co/2nPQRXY/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "2 lbs chicken or lamb, cut into pieces",
+                    "1 cup yogurt",
+                    "1 large onion, sliced",
+                    "4 garlic cloves, minced",
+                    "1 inch piece of ginger, minced",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp chili powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "4-5 cardamom pods",
+                    "4-5 cloves",
+                    "1 cinnamon stick",
+                    "2 bay leaves",
+                    "1/4 cup ghee",
+                    "Salt, to taste",
+                    "4 cups water"
+                  ],
+
+                    "cooking_method": 
+                    "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+                  "rating": 4.5
+              },
+            {
+                "name": "Prawn Bhuna",
+                "type": "Seafood",
+                "description": "Prawn Bhuna is a spicy and flavorful Bangladeshi seafood dish that is often served with steamed rice. Moushumi's recipe features succulent prawns that are cooked with a blend of aromatic spices, onions, and tomatoes until the sauce is thick and rich. This dish is particularly popular in coastal areas of Bangladesh.",
+                "image": "https://i.ibb.co/F0nTXY5/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
+                "ingredients": [
+                   "500g prawns, peeled and deveined",
+                   "1 onion, finely chopped",
+                   "2 garlic cloves, minced",
+                   "1 tbsp ginger paste",
+                   "1 tbsp cumin powder",
+                   "1 tbsp coriander powder",
+                   "1 tsp turmeric powder",
+                   "1 tsp chili powder",
+                   "2 tomatoes, finely chopped",
+                   "1 tsp garam masala",
+                   "3 tbsp oil",
+                   "Salt to taste"
+                ],
+                "cooking_method": 
+                "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+                "rating": 4.5
+            },
+            {
+              "name": "Chapli Kebab",
+              "type": "Appetizer",
+              "description": "Chapli Kebab is a spicy and flavorful appetizer that is popular in Bangladesh. It is made with ground beef or lamb mixed with a blend of spices, including cumin, coriander, and chili powder. The meat is then formed into patties and pan-fried until golden brown. This dish is typically served with a side of mint yogurt sauce.",
+              "image": "https://i.ibb.co/YB4ygjX/banner-4.jpg",
+              "ingredients": [
+                  "500g ground beef",
+                  "2 eggs",
+                  "2 tomatoes, finely chopped",
+                  "1 onion, finely chopped",
+                  "1 tsp ginger paste",
+                  "1 tsp garlic paste",
+                  "2 tsp coriander powder",
+                  "2 tsp cumin powder",
+                  "1 tsp red chili powder",
+                  "1 tsp garam masala",
+                  "1/4 cup fresh coriander leaves, finely chopped",
+                  "Salt to taste",
+                  "Oil for frying"
+                ],
+                "cooking_method": 
+                "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+                "rating": 4.5
+              },
+            {
+                "name": "Vegetable Jhal Fry",
+                "type": "Vegetarian",
+                "description": "Vegetable Jhal Fry is a spicy and tangy Bangladeshi dish that is made with a mix of vegetables, including potatoes, eggplant, and green beans. Moushumi's recipe features a flavorful tomato-based sauce that is seasoned with a blend of spices and fresh green chilies. This dish is often served as a side dish with steamed rice or flatbread.",
+                "image": "https://i.ibb.co/ZxvNGyF/banner-3.jpg",
+                "ingredients": [
+                   "2 cups mixed vegetables (carrots, beans, cauliflower, potatoes, etc.)",
+                   "1 onion, finely chopped",
+                   "2 garlic cloves, minced",
+                   "1 tbsp ginger paste",
+                   "1 tbsp cumin powder",
+                   "1 tbsp coriander powder",
+                   "1 tsp turmeric powder",
+                   "1 tsp chili powder",
+                   "2 tomatoes, finely chopped",
+                   "3 tbsp oil",
+                   "Salt to taste"
+                ],
+                "cooking_method": 
+                "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+                "rating": 4.0
+            },
+            {
+                "name": "Murgi Korma",
+                "type": "Chicken",
+                "description": "Murgi Korma is a creamy and flavorful chicken curry that is popular in Bangladesh. Moushumi's recipe features tender chunks of chicken that are cooked in a rich and aromatic sauce made with yogurt, cream, and a blend of spices. This dish is often served with steamed rice or naan bread.",
+                "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+                "ingredients": [
+                   "500g chicken, cut into pieces",
+                   "1 onion, finely chopped",
+                   "2 garlic cloves, minced",
+                   "1 tbsp ginger paste",
+                   "1 tbsp cumin powder",
+                   "1 tbsp coriander powder",
+                   "1 tsp turmeric powder",
+                   "1 tsp chili powder",
+                   "2 tomatoes, finely chopped",
+                   "1 cup yogurt",
+                   "1/2 cup cream",
+                   "3 tbsp oil",
+                   "Salt to taste"
+                ],
+                "cooking_method": 
+                "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+                "rating": 4.5
+            },
+            {
+                "name": "Shemai",
+                "type": "Dessert",
+                "description": "Shemai is a traditional Bangladeshi dessert that is made with vermicelli noodles, milk, and sugar. Moushumi's recipe features a rich and creamy sauce that is flavored with cardamom and saffron, and is often served topped with chopped nuts and dried fruit. This dessert is particularly popular during the Eid al-Fitr holiday in Bangladesh.",
+                "image": "https://i.ibb.co/j8kFTyL/banner-5.jpg",
+                "ingredients": [
+                  "1 cup shemai/simiya/vermicelli",
+                  "1/2 cup sugar",
+                  "1/2 liter milk",
+                  "2-3 tbsp ghee",
+                  "4-5 green cardamom",
+                  "1/4 cup chopped dry fruits (almonds, cashews, raisins)",
+                  "Saffron strands (optional)"
+                ],
+                "cooking_method": 
+                "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id" :  3156756,
+        "name": "Firuz chouwdhuri",
+        "bio": "Farzana Akter is a renowned Bangladeshi pastry chef, with a passion for creating beautiful and delicious desserts. She honed her skills by studying pastry arts in Paris, and has since returned to Bangladesh to share her knowledge and expertise with others. Farzana is known for her unique flavor combinations and attention to detail, and has won numerous awards for her pastry creations. In her free time, she enjoys experimenting with new ingredients and techniques, and is always looking for ways to push the boundaries of pastry making.",
+        "image": "https://i.ibb.co/HG5RNWz/chef1.png",
+        "experience": 12,
+        "likes": 5000,
+        "recipes": [
+          {
+            "name": "Rose Macarons",
+            "type": "Dessert",
+            "description": "Rose macarons are a delicate and delicious French pastry that are perfect for any occasion. Farzana uses fresh rose petals to infuse the macaron shells with a subtle floral flavor, which pairs perfectly with a rich and creamy white chocolate ganache filling.",
+            "image": "https://i.ibb.co/2nPQRXY/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+            "ingredients": [
+              "110g almond flour",
+              "200g icing sugar",
+              "100g egg whites (aged overnight)",
+              "40g granulated sugar",
+              "1 tsp rose water",
+              "Pink food coloring (optional)",
+              "Buttercream or jam for filling"
+            ],
+            "cooking_method": 
+            "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+            "rating": 4.8
+          },
+          {
+            "name": "Chocolate Hazelnut Cake",
+            "type": "Dessert",
+            "description": "This decadent chocolate hazelnut cake is a showstopper dessert that will impress any chocolate lover. Farzana creates a rich and fudgy chocolate cake, which is layered with a silky smooth hazelnut buttercream and topped with crunchy hazelnut praline.",
+            "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+            "ingredients": [
+              "200g hazelnuts",
+              "200g dark chocolate",
+              "200g unsalted butter, softened",
+              "150g sugar",
+              "5 eggs",
+              "50g plain flour",
+              "1 tsp baking powder"
+            ],
+            "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!"
+          },
+          {
+            "name": "Shorshe Ilish",
+            "type": "Fish",
+            "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+            "image": "https://i.ibb.co/2nPQRXY/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+            "ingredients": [
+              "Ilish fish",
+              "Mustard oil",
+              "Mustard paste",
+              "Turmeric",
+              "Green chillies",
+              "Salt",
+              "Sugar",
+              "Water"
+            ],
+            "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+            "rating": 4.5
+          },
+          {
+            "name": "Shorshe Ilish",
+            "type": "Fish",
+            "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+            "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+            "ingredients": [
+              "Ilish fish",
+              "Mustard oil",
+              "Mustard paste",
+              "Turmeric",
+              "Green chillies",
+              "Salt",
+              "Sugar",
+              "Water"
+            ],
+            "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "id" :  4124256,
+        "name": "Farhan Ahmed",
+        "bio": "Farhana Ahmed is a renowned Bangladeshi chef who has been cooking for over 25 years. She grew up in a family of food lovers, and her passion for cooking began at an early age. Farhana is known for her expertise in traditional Bangladeshi cuisine, and her dishes are inspired by the flavors and ingredients of her childhood. She has written several cookbooks and has appeared on numerous cooking shows. In her free time, Farhana enjoys experimenting with fusion cuisine and creating new recipes that combine Bangladeshi flavors with international ingredients.",
+        "image": "https://auditiondateandplace.com/news/wp-content/uploads/2020/06/Popular-Indian-Chef.jpg",
+        "experience": 25,
+        "likes": 15000,
+        "recipes": [
+          {
+            "name": "Rose Macarons",
+            "type": "Dessert",
+            "description": "Rose macarons are a delicate and delicious French pastry that are perfect for any occasion. Farzana uses fresh rose petals to infuse the macaron shells with a subtle floral flavor, which pairs perfectly with a rich and creamy white chocolate ganache filling.",
+            "image": "https://i.ibb.co/cbnnbGC/rasgulla-recipe-bengali-rosogulla-how-to-make-sponge-rasgulla-1-682x1024.jpg",
+            "ingredients": [
+              "110g almond flour",
+              "200g icing sugar",
+              "100g egg whites (aged overnight)",
+              "40g granulated sugar",
+              "1 tsp rose water",
+              "Pink food coloring (optional)",
+              "Buttercream or jam for filling"
+            ],
+            "cooking_method": 
+            "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+            "rating": 4.8
+          },
+          {
+            "name": "Chocolate Hazelnut Cake",
+            "type": "Dessert",
+            "description": "This decadent chocolate hazelnut cake is a showstopper dessert that will impress any chocolate lover. Farzana creates a rich and fudgy chocolate cake, which is layered with a silky smooth hazelnut buttercream and topped with crunchy hazelnut praline.",
+            "image": "https://i.ibb.co/ZxvNGyF/banner-3.jpg",
+            "ingredients": [
+              "200g hazelnuts",
+              "200g dark chocolate",
+              "200g unsalted butter, softened",
+              "150g sugar",
+              "5 eggs",
+              "50g plain flour",
+              "1 tsp baking powder"
+            ],
+            "cooking_method": 
+            "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!"
+          },
+          {
+            "name": "Shorshe Ilish",
+            "type": "Fish",
+            "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+            "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+            "ingredients": [
+              "Ilish fish",
+              "Mustard oil",
+              "Mustard paste",
+              "Turmeric",
+              "Green chillies",
+              "Salt",
+              "Sugar",
+              "Water"
+            ],
+            "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+            "rating": 4.5
+          },
+            {
+                "name": "Shorshe Ilish",
+                "type": "Fish",
+                "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+                "image": "https://i.ibb.co/f0kZHR0/Ilish-er-Shorshe-Jhal.jpg",
+                "ingredients": [
+                  "Ilish fish",
+                  "Mustard oil",
+                  "Mustard paste",
+                  "Turmeric",
+                  "Green chillies",
+                  "Salt",
+                  "Sugar",
+                  "Water"
+                ],
+                "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+              },
+              
+          {
+            "name": "Chapli Kebab",
+            "type": "Appetizer",
+            "description": "Chapli Kebab is a spicy and flavorful appetizer that is popular in Bangladesh. It is made with ground beef or lamb mixed with a blend of spices, including cumin, coriander, and chili powder. The meat is then formed into patties and pan-fried until golden brown. This dish is typically served with a side of mint yogurt sauce.",
+            "image": "https://i.ibb.co/ZxvNGyF/banner-3.jpg",
+            "ingredients": [
+                "500g ground beef",
+                "2 eggs",
+                "2 tomatoes, finely chopped",
+                "1 onion, finely chopped",
+                "1 tsp ginger paste",
+                "1 tsp garlic paste",
+                "2 tsp coriander powder",
+                "2 tsp cumin powder",
+                "1 tsp red chili powder",
+                "1 tsp garam masala",
+                "1/4 cup fresh coriander leaves, finely chopped",
+                "Salt to taste",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+                "In a large bowl, combine the ground beef, eggs, tomatoes, onion, ginger paste, garlic paste, coriander powder, cumin powder, red chili powder, garam masala, and salt. Mix well and let it marinate for 30 minutes.Heat the oil in a large pan over medium heat. Take a small portion of the mixture, shape it into a round patty, and place it in the pan. Repeat with the remaining mixture.Cook the kebabs for 4-5 minutes on each side or until golden brown.Serve hot with mint chutney and naan bread.",
+              
+              "rating": 4.5
+            },
+          {
+            "name": "Biryani",
+            "type": "Rice",
+            "description": "Biryani is a classic Bangladeshi dish made with aromatic rice and meat, usually beef or chicken. The meat is first marinated with spices and yogurt, and then cooked with rice and a blend of spices, including cinnamon, cardamom, and bay leaves. This dish is typically served with raita, a yogurt-based sauce.",
+            "image": "https://i.ibb.co/F0nTXY5/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
+            "ingredients": [
+                "2 cups basmati rice",
+                "2 lbs chicken or lamb, cut into pieces",
+                "1 cup yogurt",
+                "1 large onion, sliced",
+                "4 garlic cloves, minced",
+                "1 inch piece of ginger, minced",
+                "1/2 tsp turmeric powder",
+                "1/2 tsp chili powder",
+                "1 tsp cumin powder",
+                "1 tsp coriander powder",
+                "4-5 cardamom pods",
+                "4-5 cloves",
+                "1 cinnamon stick",
+                "2 bay leaves",
+                "1/4 cup ghee",
+                "Salt, to taste",
+                "4 cups water"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+              "rating": 4.5
+          },
+          {
+            "name": "Mutton Curry",
+            "type": "Meat",
+            "description": "Mutton Curry is a popular Bangladeshi dish made with tender pieces of mutton cooked in a rich and aromatic gravy made with onions, tomatoes, and a blend of spices, including ginger, garlic, and cumin. This dish is best served with steamed rice and a side of vegetable curry.",
+            "image": "https://i.ibb.co/PWBVhgK/gugappa.png",
+            "ingredients": [
+              "500g bone-in mutton",
+              "2 onions, sliced",
+              "2 tomatoes, chopped",
+              "2 tbsp ginger-garlic paste",
+              "1 tbsp red chili powder",
+              "1 tsp turmeric powder",
+              "1 tsp coriander powder",
+              "1 tsp cumin powder",
+              "1 tsp garam masala powder",
+              "2 bay leaves",
+              "3 cardamom pods",
+              "2 cinnamon sticks",
+              "3 cloves",
+              "3 tbsp oil",
+              "Salt to taste"
+            ],
+            "cooking_method": 
+            "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+            "rating": 4.8
+          },
+          {
+            "name": "Luchi",
+            "type": "Bread",
+            "description": "Luchi is a popular Bangladeshi bread made with flour, water, and salt, and deep-fried until golden brown. It is often served with a variety of curries, such as chana dal or aloo bhaji. Luchi is a popular breakfast food in Bangladesh and is also served during festivals and special occasions.",
+            "image": "https://i.ibb.co/F0nTXY5/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
+            "ingredients": [
+                "2 cups all-purpose flour",
+                "1/2 tsp salt",
+                "1 tbsp ghee",
+                "3/4 cup warm water",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+              "rating": 4.0
+          },
+          {
+            "name": "Chapli Kebab",
+            "type": "Appetizer",
+            "description": "Chapli Kebab is a spicy and flavorful appetizer that is popular in Bangladesh. It is made with ground beef or lamb mixed with a blend of spices, including cumin, coriander, and chili powder. The meat is then formed into patties and pan-fried until golden brown. This dish is typically served with a side of mint yogurt sauce.",
+            "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+            "ingredients": [
+                "500g ground beef",
+                "2 eggs",
+                "2 tomatoes, finely chopped",
+                "1 onion, finely chopped",
+                "1 tsp ginger paste",
+                "1 tsp garlic paste",
+                "2 tsp coriander powder",
+                "2 tsp cumin powder",
+                "1 tsp red chili powder",
+                "1 tsp garam masala",
+                "1/4 cup fresh coriander leaves, finely chopped",
+                "Salt to taste",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+                "In a large bowl, combine the ground beef, eggs, tomatoes, onion, ginger paste, garlic paste, coriander powder, cumin powder, red chili powder, garam masala, and salt. Mix well and let it marinate for 30 minutes.Heat the oil in a large pan over medium heat. Take a small portion of the mixture, shape it into a round patty, and place it in the pan. Repeat with the remaining mixture.Cook the kebabs for 4-5 minutes on each side or until golden brown.Serve hot with mint chutney and naan bread.",
+              
+              "rating": 4.5
+            }
+          
+        ]
+        
+      },
+      
+      {
+        "id" :  6128250,
+        "name": "Farid Yasin",
+        "bio": "Farida Yasmin is a renowned chef from Bangladesh who specializes in traditional Bangladeshi cuisine. She has been cooking for over 30 years, and has a deep understanding of the ingredients and techniques that make Bangladeshi cuisine so unique. Farida is passionate about preserving the traditional flavors of Bangladeshi cuisine, and often uses locally-sourced ingredients to create her dishes. In her free time, Farida enjoys experimenting with new ingredients and creating fusion dishes that combine the flavors of Bangladesh with other cuisines.",
+        "image": "https://thumbs.dreamstime.com/b/happy-indian-chef-cookbook-over-vegetables-cooking-profession-healthy-eating-concept-male-toque-blue-background-140113045.jpg",
+        "experience": 30,
+        "likes": 15000,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "type": "Fish",
+                "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+                "image": "https://i.ibb.co/5hSCLrS/chef-8.jpg",
+                "ingredients": [
+                  "Ilish fish",
+                  "Mustard oil",
+                  "Mustard paste",
+                  "Turmeric",
+                  "Green chillies",
+                  "Salt",
+                  "Sugar",
+                  "Water"
+                ],
+                "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+              },
+              {
+                "name": "Biryani",
+                "type": "Rice",
+                "description": "Biryani is a classic Bangladeshi dish made with aromatic rice and meat, usually beef or chicken. The meat is first marinated with spices and yogurt, and then cooked with rice and a blend of spices, including cinnamon, cardamom, and bay leaves. This dish is typically served with raita, a yogurt-based sauce.",
+                "image": "https://i.ibb.co/cbnnbGC/rasgulla-recipe-bengali-rosogulla-how-to-make-sponge-rasgulla-1-682x1024.jpg",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "2 lbs chicken or lamb, cut into pieces",
+                    "1 cup yogurt",
+                    "1 large onion, sliced",
+                    "4 garlic cloves, minced",
+                    "1 inch piece of ginger, minced",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp chili powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "4-5 cardamom pods",
+                    "4-5 cloves",
+                    "1 cinnamon stick",
+                    "2 bay leaves",
+                    "1/4 cup ghee",
+                    "Salt, to taste",
+                    "4 cups water"
+                  ],
+                  "cooking_method": 
+                    "Soak the rice in water for 30 minutes.In a large pot, heat the ghee and add the whole spices (cardamom pods, cloves, cinnamon stick, and bay leaves). Fry for 1 minute.Add the sliced onions and fry until golden brown.Add the garlic and ginger, and fry for 1 minute.Add the chicken or lamb pieces and fry until browned.Add the turmeric powder, chili powder, cumin powder, coriander powder, and salt. Fry for 2-3 minutes Add the yogurt and fry for another 2-3 minutes.Add 4 cups of water and bring to a boil.Drain the soaked rice and add it to the pot. Stir well.Cover the pot and cook on low heat for 20-25 minutes, or until the rice is cooked and the water has been absorbed.Serve hot with raita and/or salad.",
+                  "rating": 4.5
+              },
+          {
+            "name": "Chotpoti",
+            "type": "Snack",
+            "description": "Chotpoti is a popular street food in Bangladesh, made with boiled potatoes, chickpeas, and tamarind sauce. Farida's Chotpoti recipe uses locally-sourced ingredients and a special blend of spices to create a mouthwatering snack that is perfect for any occasion.",
+            "image": "https://i.ibb.co/F0nTXY5/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
+            "ingredients": [
+              "Chickpeas",
+              "Potatoes",
+              "Onion",
+              "Tomato",
+              "Cucumber",
+              "Tamarind paste",
+              "Green chili",
+              "Cilantro",
+              "Puffed rice",
+              "Chaat masala",
+              "Black salt"
+            ],
+            "cooking_method": "Boil the chickpeas and potatoes separately. Mix the boiled chickpeas with chopped onions, tomatoes, and cucumber. Add tamarind paste, green chili, and spices. Garnish with cilantro and serve with puffed rice.",
+            "rating": 4.8
+          },
+          {
+            "name": "Beef Rezala",
+            "type": "Beef",
+            "description": "Beef Rezala is a classic Mughlai dish that is popular in Bangladesh. Farida's version of this dish uses tender beef cooked in a creamy gravy made with yogurt, almonds, and spices. It is best served with naan bread or steamed rice.",
+            "image": "https://i.ibb.co/f0kZHR0/Ilish-er-Shorshe-Jhal.jpg",
+            "ingredients": [
+              "500g beef",
+              "2 cups yogurt",
+              "1 tablespoon ginger paste",
+              "1 tablespoon garlic paste",
+              "1 teaspoon cumin powder",
+              "1 teaspoon coriander powder",
+              "1 teaspoon chili powder",
+              "1 teaspoon turmeric powder",
+              "2 tablespoons ghee",
+              "2 bay leaves",
+              "2 cinnamon sticks",
+              "4 cardamom pods",
+              "4 cloves",
+              "1 cup water",
+              "Salt to taste"
+            ],
+            "cooking_method": 
+              "Cut the beef into small pieces and marinate it with yogurt, ginger paste, garlic paste, cumin powder,coriander powder, chili powder, turmeric powder, and salt for at least 2 hours.Heat ghee in a pan and add bay leaves, cinnamon sticks, cardamom pods, and cloves. Fry for 1-2 minutes.Add the marinated beef to the pan and fry for 10-12 minutes on medium heat.Add 1 cup of water and simmer for 30-40 minutes until the beef is tender and the gravy is thick.Serve hot with steamed rice or naan bread.",
+            "rating": 4.5
+          },
+          {
+            "name": "Chapli Kebab",
+            "type": "Appetizer",
+            "description": "Chapli Kebab is a spicy and flavorful appetizer that is popular in Bangladesh. It is made with ground beef or lamb mixed with a blend of spices, including cumin, coriander, and chili powder. The meat is then formed into patties and pan-fried until golden brown. This dish is typically served with a side of mint yogurt sauce.",
+            "image": "https://i.ibb.co/YB4ygjX/banner-4.jpg",
+            "ingredients": [
+                "500g ground beef",
+                "2 eggs",
+                "2 tomatoes, finely chopped",
+                "1 onion, finely chopped",
+                "1 tsp ginger paste",
+                "1 tsp garlic paste",
+                "2 tsp coriander powder",
+                "2 tsp cumin powder",
+                "1 tsp red chili powder",
+                "1 tsp garam masala",
+                "1/4 cup fresh coriander leaves, finely chopped",
+                "Salt to taste",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+                "In a large bowl, combine the ground beef, eggs, tomatoes, onion, ginger paste, garlic paste, coriander powder, cumin powder, red chili powder, garam masala, and salt. Mix well and let it marinate for 30 minutes.Heat the oil in a large pan over medium heat. Take a small portion of the mixture, shape it into a round patty, and place it in the pan. Repeat with the remaining mixture.Cook the kebabs for 4-5 minutes on each side or until golden brown.Serve hot with mint chutney and naan bread.",
+              "rating": 4.5
+            },
+          {
+            "name": "Chingri Bhuna",
+            "type": "Seafood",
+            "description": "Chingri Bhuna is a spicy prawn curry that is popular in Bangladesh. Farida's Chingri Bhuna recipe uses fresh prawns, locally-sourced spices, and a blend of herbs to create a flavorful and aromatic dish that is sure to impress.",
+            "image": "https://i.ibb.co/F0nTXY5/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
+            "ingredients": [
+              "1 pound of large shrimp (peeled and deveined)",
+              "2 onions (finely chopped)",
+              "4 garlic cloves (minced)",
+              "1 tablespoon of ginger (minced)",
+              "2 tablespoons of tomato paste",
+              "1 teaspoon of cumin powder",
+              "1 teaspoon of coriander powder",
+              "1 teaspoon of turmeric",
+              "1 teaspoon of paprika",
+              "1 teaspoon of garam masala",
+              "1 teaspoon of salt",
+              "1/4 cup of vegetable oil",
+              "1/4 cup of water",
+              "2 green chilies (sliced)"
+            ],
+            "cooking_method": [
+              "Heat the vegetable oil in a large pan over medium-high heat.",
+              "Add the onions and sauté until golden brown.",
+              "Add the garlic and ginger and sauté for another minute.",
+              "Add the tomato paste, cumin powder, coriander powder, turmeric, paprika, and salt. Mix well and cook for 2-3 minutes.",
+              "Add the shrimp and mix well. Cook for 5-7 minutes or until the shrimp are pink and cooked through.",
+              "Add the water and green chilies. Mix well and cook for another 2-3 minutes.",
+              "Sprinkle garam masala over the top and serve hot with rice or naan bread."
+            ],
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "id" :  7128290,
+        "name": "Nurul Islam",
+        "bio": "Nurul Islam is a renowned Bangladeshi chef who specializes in traditional Bangladeshi cuisine. He has been in the culinary industry for over 25 years and has worked in various prestigious restaurants in Bangladesh and abroad. Nurul is known for his expertise in creating complex and nuanced flavors in his dishes, using a wide range of herbs, spices, and other ingredients. His passion for Bangladeshi cuisine has driven him to research and experiment with traditional cooking techniques and ingredients, to bring new life to classic dishes. In his free time, Nurul enjoys traveling around Bangladesh to explore the diverse regional cuisines of his country.",
+        "image": "https://im.rediff.com/getahead/2015/mar/27chef-ranveer-brar-1.jpg",
+        "experience": 25,
+        "likes": 15000,
+        "recipes": [
+            {
+                "name": "Biryani",
+                "type": "Rice",
+                "description": "Biryani is a classic Bangladeshi dish made with aromatic rice and meat, usually beef or chicken. The meat is first marinated with spices and yogurt, and then cooked with rice and a blend of spices, including cinnamon, cardamom, and bay leaves. This dish is typically served with raita, a yogurt-based sauce.",
+                "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5347.jpg",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "2 lbs chicken or lamb, cut into pieces",
+                    "1 cup yogurt",
+                    "1 large onion, sliced",
+                    "4 garlic cloves, minced",
+                    "1 inch piece of ginger, minced",
+                    "1/2 tsp turmeric powder",
+                    "1/2 tsp chili powder",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "4-5 cardamom pods",
+                    "4-5 cloves",
+                    "1 cinnamon stick",
+                    "2 bay leaves",
+                    "1/4 cup ghee",
+                    "Salt, to taste",
+                    "4 cups water"
+                  ],
+                  "cooking_method": 
+                  "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+                  "rating": 4.5
+              },
+          {
+            "name": "Shorshe Ilish",
+            "type": "Fish",
+            "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+            "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+            "ingredients": [
+              "Ilish fish",
+              "Mustard oil",
+              "Mustard paste",
+              "Turmeric",
+              "Green chillies",
+              "Salt",
+              "Sugar",
+              "Water"
+            ],
+            "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+            "rating": 4.5
+          },
+          {
+            "name": "Pitha",
+            "type": "Snack",
+            "description": "Pitha is a type of traditional Bangladeshi snack that is often served during festivals and celebrations. It is made with a mix of rice flour and jaggery, which is then shaped into small balls and fried until golden brown. Pitha can be served plain or with a variety of sweet or savory toppings.",
+            "image": "https://i.ibb.co/cbnnbGC/rasgulla-recipe-bengali-rosogulla-how-to-make-sponge-rasgulla-1-682x1024.jpg",
+            "ingredients": [
+              "1 cup rice flour",
+              "1 cup jaggery",
+              "1/2 cup water",
+              "1/4 tsp salt",
+              "Oil for frying"
+            ],
+            "cooking_method": 
+            "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+            "rating": 4.5
+          },
+          {
+            "name": "Dhaka Beef Curry",
+            "type": "Beef",
+            "description": "Dhaka Beef Curry is a rich and flavorful beef curry that is popular in Bangladesh. The dish is made with tender pieces of beef, which are slow-cooked in a spicy tomato and onion gravy until the meat is tender and the sauce is thick and aromatic. This dish is best served with steamed rice or naan bread.",
+            "image": "https://i.ibb.co/ZxvNGyF/banner-3.jpg",
+            "ingredients": [
+              "1 kg beef, cut into pieces",
+              "3 onions, finely chopped",
+              "4 tomatoes, finely chopped",
+              "2 tablespoons ginger paste",
+              "2 tablespoons garlic paste",
+              "2 green chilies, finely chopped",
+              "1 teaspoon cumin powder",
+              "1 teaspoon coriander powder",
+              "1 teaspoon red chili powder",
+              "1 teaspoon turmeric powder",
+              "1 cinnamon stick",
+              "4 cardamom pods",
+              "4 cloves",
+              "2 bay leaves",
+              "2 tablespoons vegetable oil",
+              "Salt to taste"
+            ],
+            "cooking_method": 
+            "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+            "rating": 4.5
+          },
+          {
+            "name": "Luchi",
+            "type": "Bread",
+            "description": "Luchi is a type of deep-fried bread that is popular in Bangladesh. It is made with a mixture of flour, salt, and water, and is typically served with spicy curries or sweet chutneys. Luchi is a staple of Bengali cuisine and is often served during breakfast or special occasions.",
+            "image": "https://i.ibb.co/YB4ygjX/banner-4.jpg",
+            "ingredients": [
+                "2 cups all-purpose flour",
+                "1/2 tsp salt",
+                "1 tbsp ghee",
+                "3/4 cup warm water",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+              "rating": 4.0
+          }
+        ]
+      },
+      {
+        "id" :  8128231,
+        "name": "Farida Rahman",
+        "bio": "Farida Rahman is a renowned Bangladeshi chef with over 30 years of experience in cooking. She is known for her traditional Bangladeshi recipes and her expertise in creating delicious and healthy dishes. Farida started her career as a home cook, but soon became a popular figure in the Bangladeshi food industry. She has published several cookbooks and has been featured in many TV shows and magazines. In her free time, Farida likes to experiment with new recipes and ingredients.",
+        "image": "https://5.imimg.com/data5/GO/FS/HM/SELLER-91591789/north-indian-chef-jpg-500x500.jpg",
+        "experience": 30,
+        "likes": 20000,
+        "recipes": [
+          {
+            "name": "Rose Macarons",
+            "type": "Dessert",
+            "description": "Rose macarons are a delicate and delicious French pastry that are perfect for any occasion. Farzana uses fresh rose petals to infuse the macaron shells with a subtle floral flavor, which pairs perfectly with a rich and creamy white chocolate ganache filling.",
+            "image": "https://i.ibb.co/f0kZHR0/Ilish-er-Shorshe-Jhal.jpg",
+            "ingredients": [
+              "110g almond flour",
+              "200g icing sugar",
+              "100g egg whites (aged overnight)",
+              "40g granulated sugar",
+              "1 tsp rose water",
+              "Pink food coloring (optional)",
+              "Buttercream or jam for filling"
+            ],
+            "cooking_method": [
+              "Preheat oven to 150°C and line a baking tray with parchment paper.",
+              "Sift together almond flour and icing sugar, set aside.",
+              "In a separate bowl, beat egg whites until frothy, then gradually add granulated sugar while continuing to beat until stiff peaks form.",
+              "Add rose water and food coloring (if using) and mix well.",
+              "Fold in the almond flour mixture until smooth and shiny.",
+              "Transfer the mixture to a piping bag and pipe onto the prepared baking tray.",
+              "Let the macarons sit at room temperature for 30 minutes to develop a skin, then bake for 12-15 minutes.",
+              "Once cooled, sandwich two macarons together with buttercream or jam.",
+              "Serve and enjoy!"
+            ],
+            "rating": 4.8
+          },
+          {
+            "name": "Chocolate Hazelnut Cake",
+            "type": "Dessert",
+            "description": "This decadent chocolate hazelnut cake is a showstopper dessert that will impress any chocolate lover. Farzana creates a rich and fudgy chocolate cake, which is layered with a silky smooth hazelnut buttercream and topped with crunchy hazelnut praline.",
+            "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+            "ingredients": [
+              "200g hazelnuts",
+              "200g dark chocolate",
+              "200g unsalted butter, softened",
+              "150g sugar",
+              "5 eggs",
+              "50g plain flour",
+              "1 tsp baking powder"
+            ],
+            "cooking_method": [
+              "Preheat oven to 180°C and grease a cake tin.",
+              "Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.",
+              "In a food processor, grind the hazelnuts until fine.",
+              "Melt the chocolate in a heatproof bowl set over a pan of simmering water.",
+              "In a separate bowl, cream the butter and sugar until light and fluffy.",
+              "Add the eggs, one at a time, beating well after each addition.",
+              "Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.",
+              "Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.",
+              "Once cooled, decorate with icing sugar and extra hazelnuts.",
+              "Serve and enjoy!"]
+          },
+          {
+            "name": "Shorshe Ilish",
+            "type": "Fish",
+            "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+            "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+            "ingredients": [
+              "Ilish fish",
+              "Mustard oil",
+              "Mustard paste",
+              "Turmeric",
+              "Green chillies",
+              "Salt",
+              "Sugar",
+              "Water"
+            ],
+            "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+            "rating": 4.5
+          },
+            {
+                "name": "Shorshe Ilish",
+                "type": "Fish",
+                "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+                "image": "https://i.ibb.co/j8kFTyL/banner-5.jpg",
+                "ingredients": [
+                  "Ilish fish",
+                  "Mustard oil",
+                  "Mustard paste",
+                  "Turmeric",
+                  "Green chillies",
+                  "Salt",
+                  "Sugar",
+                  "Water"
+                ],
+                "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+              },
+              
+          {
+            "name": "Chapli Kebab",
+            "type": "Appetizer",
+            "description": "Chapli Kebab is a spicy and flavorful appetizer that is popular in Bangladesh. It is made with ground beef or lamb mixed with a blend of spices, including cumin, coriander, and chili powder. The meat is then formed into patties and pan-fried until golden brown. This dish is typically served with a side of mint yogurt sauce.",
+            "image": "https://i.ibb.co/2nPQRXY/shreyak-singh-0j4bisy-Po3-M-unsplash.jpg",
+            "ingredients": [
+                "500g ground beef",
+                "2 eggs",
+                "2 tomatoes, finely chopped",
+                "1 onion, finely chopped",
+                "1 tsp ginger paste",
+                "1 tsp garlic paste",
+                "2 tsp coriander powder",
+                "2 tsp cumin powder",
+                "1 tsp red chili powder",
+                "1 tsp garam masala",
+                "1/4 cup fresh coriander leaves, finely chopped",
+                "Salt to taste",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+                "In a large bowl, combine the ground beef, eggs, tomatoes, onion, ginger paste, garlic paste, coriander powder, cumin powder, red chili powder, garam masala, and salt. Mix well and let it marinate for 30 minutes.Heat the oil in a large pan over medium heat. Take a small portion of the mixture, shape it into a round patty, and place it in the pan. Repeat with the remaining mixture.Cook the kebabs for 4-5 minutes on each side or until golden brown.Serve hot with mint chutney and naan bread.",
+              
+              "rating": 4.5
+            },
+          {
+            "name": "Biryani",
+            "type": "Rice",
+            "description": "Biryani is a classic Bangladeshi dish made with aromatic rice and meat, usually beef or chicken. The meat is first marinated with spices and yogurt, and then cooked with rice and a blend of spices, including cinnamon, cardamom, and bay leaves. This dish is typically served with raita, a yogurt-based sauce.",
+            "image": "https://i.ibb.co/cbnnbGC/rasgulla-recipe-bengali-rosogulla-how-to-make-sponge-rasgulla-1-682x1024.jpg",
+            "ingredients": [
+                "2 cups basmati rice",
+                "2 lbs chicken or lamb, cut into pieces",
+                "1 cup yogurt",
+                "1 large onion, sliced",
+                "4 garlic cloves, minced",
+                "1 inch piece of ginger, minced",
+                "1/2 tsp turmeric powder",
+                "1/2 tsp chili powder",
+                "1 tsp cumin powder",
+                "1 tsp coriander powder",
+                "4-5 cardamom pods",
+                "4-5 cloves",
+                "1 cinnamon stick",
+                "2 bay leaves",
+                "1/4 cup ghee",
+                "Salt, to taste",
+                "4 cups water"
+              ],
+              "cooking_method": [
+                "Soak the rice in water for 30 minutes.",
+                "In a large pot, heat the ghee and add the whole spices (cardamom pods, cloves, cinnamon stick, and bay leaves). Fry for 1 minute.",
+                "Add the sliced onions and fry until golden brown.",
+                "Add the garlic and ginger, and fry for 1 minute.",
+                "Add the chicken or lamb pieces and fry until browned.",
+                "Add the turmeric powder, chili powder, cumin powder, coriander powder, and salt. Fry for 2-3 minutes.",
+                "Add the yogurt and fry for another 2-3 minutes.",
+                "Add 4 cups of water and bring to a boil.",
+                "Drain the soaked rice and add it to the pot. Stir well.",
+                "Cover the pot and cook on low heat for 20-25 minutes, or until the rice is cooked and the water has been absorbed.",
+                "Serve hot with raita and/or salad."
+              ],
+              "rating": 4.5
+          },
+          {
+            "name": "Mutton Curry",
+            "type": "Meat",
+            "description": "Mutton Curry is a popular Bangladeshi dish made with tender pieces of mutton cooked in a rich and aromatic gravy made with onions, tomatoes, and a blend of spices, including ginger, garlic, and cumin. This dish is best served with steamed rice and a side of vegetable curry.",
+            "image": "https://i.ibb.co/f0kZHR0/Ilish-er-Shorshe-Jhal.jpg",
+            "ingredients": [
+              "500g bone-in mutton",
+              "2 onions, sliced",
+              "2 tomatoes, chopped",
+              "2 tbsp ginger-garlic paste",
+              "1 tbsp red chili powder",
+              "1 tsp turmeric powder",
+              "1 tsp coriander powder",
+              "1 tsp cumin powder",
+              "1 tsp garam masala powder",
+              "2 bay leaves",
+              "3 cardamom pods",
+              "2 cinnamon sticks",
+              "3 cloves",
+              "3 tbsp oil",
+              "Salt to taste"
+            ],
+            "cooking_method": [
+              "Heat oil in a pressure cooker.",
+              "Add bay leaves, cardamom pods, cinnamon sticks, and cloves.",
+              "Add sliced onions and fry until golden brown.",
+              "Add ginger-garlic paste and fry for a minute.",
+              "Add chopped tomatoes and cook until they are soft.",
+              "Add red chili powder, turmeric powder, coriander powder, and cumin powder.",
+              "Add mutton and mix well with the masala.",
+              "Add salt to taste and 1 cup of water.",
+              "Pressure cook for 4-5 whistles until the mutton is tender and cooked through.",
+              "Add garam masala powder and mix well.",
+              "Garnish with coriander leaves and serve hot with steamed rice or naan bread."
+            ],
+            "rating": 4.8
+          },
+          {
+            "name": "Luchi",
+            "type": "Bread",
+            "description": "Luchi is a popular Bangladeshi bread made with flour, water, and salt, and deep-fried until golden brown. It is often served with a variety of curries, such as chana dal or aloo bhaji. Luchi is a popular breakfast food in Bangladesh and is also served during festivals and special occasions.",
+            "image": "https://i.ibb.co/ZxvNGyF/banner-3.jpg",
+            "ingredients": [
+                "2 cups all-purpose flour",
+                "1/2 tsp salt",
+                "1 tbsp ghee",
+                "3/4 cup warm water",
+                "Oil for frying"
+              ],
+              "cooking_method": [
+                "In a large bowl, mix together the flour and salt. Add the ghee and mix well.",
+                "Add the warm water, a little at a time, and knead the dough until it becomes smooth and pliable.",
+                "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+                "Divide the dough into small balls and roll each ball into a circle.",
+                "Heat the oil in a deep pan over medium-high heat. Fry the luchis until they become puffy and golden brown.",
+                "Serve hot with chana dal or potato curry."
+              ],
+              "rating": 4.0
+          },
+          {
+            "name": "Chapli Kebab",
+            "type": "Appetizer",
+            "description": "Chapli Kebab is a spicy and flavorful appetizer that is popular in Bangladesh. It is made with ground beef or lamb mixed with a blend of spices, including cumin, coriander, and chili powder. The meat is then formed into patties and pan-fried until golden brown. This dish is typically served with a side of mint yogurt sauce.",
+            "image": "https://i.ibb.co/ZxvNGyF/banner-3.jpg",
+            "ingredients": [
+                "500g ground beef",
+                "2 eggs",
+                "2 tomatoes, finely chopped",
+                "1 onion, finely chopped",
+                "1 tsp ginger paste",
+                "1 tsp garlic paste",
+                "2 tsp coriander powder",
+                "2 tsp cumin powder",
+                "1 tsp red chili powder",
+                "1 tsp garam masala",
+                "1/4 cup fresh coriander leaves, finely chopped",
+                "Salt to taste",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+                "In a large bowl, combine the ground beef, eggs, tomatoes, onion, ginger paste, garlic paste, coriander powder, cumin powder, red chili powder, garam masala, and salt. Mix well and let it marinate for 30 minutes.Heat the oil in a large pan over medium heat. Take a small portion of the mixture, shape it into a round patty, and place it in the pan. Repeat with the remaining mixture.Cook the kebabs for 4-5 minutes on each side or until golden brown.Serve hot with mint chutney and naan bread.",
+              
+              "rating": 4.5
+            }
+          
+        ]
+      },
+      {
+        "id" :  8128291,
+        "name": "Zafar Rahman",
+        "bio": "Farida Rahman is a renowned Bangladeshi chef with over 30 years of experience in cooking. She is known for her traditional Bangladeshi recipes and her expertise in creating delicious and healthy dishes. Farida started her career as a home cook, but soon became a popular figure in the Bangladeshi food industry. She has published several cookbooks and has been featured in many TV shows and magazines. In her free time, Farida likes to experiment with new recipes and ingredients.",
+        "image": "https://furamavietnam.com/wp-content/uploads/2020/02/Indian-Chef-Tamilarasan-Perumal-Joining-The-Culinary-Experts-At-Furama-Resort-Danang-The-Culinary-Beach-Resort-In-Vietnam.jpg",
+        "experience": 30,
+        "likes": 20000,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "type": "Fish",
+                "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+                "image": "https://i.ibb.co/f0kZHR0/Ilish-er-Shorshe-Jhal.jpg",
+                "ingredients": [
+                  "Ilish fish",
+                  "Mustard oil",
+                  "Mustard paste",
+                  "Turmeric",
+                  "Green chillies",
+                  "Salt",
+                  "Sugar",
+                  "Water"
+                ],
+                "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+              },
+          {
+            "name": "Biryani",
+            "type": "Rice",
+            "description": "Biryani is a classic Bangladeshi dish made with aromatic rice and meat, usually beef or chicken. The meat is first marinated with spices and yogurt, and then cooked with rice and a blend of spices, including cinnamon, cardamom, and bay leaves. This dish is typically served with raita, a yogurt-based sauce.",
+            "image": "https://i.ibb.co/PWBVhgK/gugappa.png",
+            "ingredients": [
+                "2 cups basmati rice",
+                "2 lbs chicken or lamb, cut into pieces",
+                "1 cup yogurt",
+                "1 large onion, sliced",
+                "4 garlic cloves, minced",
+                "1 inch piece of ginger, minced",
+                "1/2 tsp turmeric powder",
+                "1/2 tsp chili powder",
+                "1 tsp cumin powder",
+                "1 tsp coriander powder",
+                "4-5 cardamom pods",
+                "4-5 cloves",
+                "1 cinnamon stick",
+                "2 bay leaves",
+                "1/4 cup ghee",
+                "Salt, to taste",
+                "4 cups water"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+              "rating": 4.5
+          },
+          {
+            "name": "Mutton Curry",
+            "type": "Meat",
+            "description": "Mutton Curry is a popular Bangladeshi dish made with tender pieces of mutton cooked in a rich and aromatic gravy made with onions, tomatoes, and a blend of spices, including ginger, garlic, and cumin. This dish is best served with steamed rice and a side of vegetable curry.",
+            "image": "https://i.ibb.co/f0kZHR0/Ilish-er-Shorshe-Jhal.jpg",
+            "ingredients": [
+              "500g bone-in mutton",
+              "2 onions, sliced",
+              "2 tomatoes, chopped",
+              "2 tbsp ginger-garlic paste",
+              "1 tbsp red chili powder",
+              "1 tsp turmeric powder",
+              "1 tsp coriander powder",
+              "1 tsp cumin powder",
+              "1 tsp garam masala powder",
+              "2 bay leaves",
+              "3 cardamom pods",
+              "2 cinnamon sticks",
+              "3 cloves",
+              "3 tbsp oil",
+              "Salt to taste"
+            ],
+            "cooking_method": 
+            "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+            "rating": 4.8
+          },
+          {
+            "name": "Luchi",
+            "type": "Bread",
+            "description": "Luchi is a popular Bangladeshi bread made with flour, water, and salt, and deep-fried until golden brown. It is often served with a variety of curries, such as chana dal or aloo bhaji. Luchi is a popular breakfast food in Bangladesh and is also served during festivals and special occasions.",
+            "image": "https://i.ibb.co/F0nTXY5/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
+            "ingredients": [
+                "2 cups all-purpose flour",
+                "1/2 tsp salt",
+                "1 tbsp ghee",
+                "3/4 cup warm water",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+              "rating": 4.0
+          },
+          {
+            "name": "Chapli Kebab",
+            "type": "Appetizer",
+            "description": "Chapli Kebab is a spicy and flavorful appetizer that is popular in Bangladesh. It is made with ground beef or lamb mixed with a blend of spices, including cumin, coriander, and chili powder. The meat is then formed into patties and pan-fried until golden brown. This dish is typically served with a side of mint yogurt sauce.",
+            "image": "https://i.ibb.co/YB4ygjX/banner-4.jpg",
+            "ingredients": [
+                "500g ground beef",
+                "2 eggs",
+                "2 tomatoes, finely chopped",
+                "1 onion, finely chopped",
+                "1 tsp ginger paste",
+                "1 tsp garlic paste",
+                "2 tsp coriander powder",
+                "2 tsp cumin powder",
+                "1 tsp red chili powder",
+                "1 tsp garam masala",
+                "1/4 cup fresh coriander leaves, finely chopped",
+                "Salt to taste",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+                "In a large bowl, combine the ground beef, eggs, tomatoes, onion, ginger paste, garlic paste, coriander powder, cumin powder, red chili powder, garam masala, and salt. Mix well and let it marinate for 30 minutes.Heat the oil in a large pan over medium heat. Take a small portion of the mixture, shape it into a round patty, and place it in the pan. Repeat with the remaining mixture.Cook the kebabs for 4-5 minutes on each side or until golden brown.Serve hot with mint chutney and naan bread.",
+              
+              "rating": 4.5
+            },
+            {
+              "name": "Rose Macarons",
+              "type": "Dessert",
+              "description": "Rose macarons are a delicate and delicious French pastry that are perfect for any occasion. Farzana uses fresh rose petals to infuse the macaron shells with a subtle floral flavor, which pairs perfectly with a rich and creamy white chocolate ganache filling.",
+              "image": "https://i.ibb.co/cbnnbGC/rasgulla-recipe-bengali-rosogulla-how-to-make-sponge-rasgulla-1-682x1024.jpg",
+              "ingredients": [
+                "110g almond flour",
+                "200g icing sugar",
+                "100g egg whites (aged overnight)",
+                "40g granulated sugar",
+                "1 tsp rose water",
+                "Pink food coloring (optional)",
+                "Buttercream or jam for filling"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+              "rating": 4.8
+            },
+            {
+              "name": "Chocolate Hazelnut Cake",
+              "type": "Dessert",
+              "description": "This decadent chocolate hazelnut cake is a showstopper dessert that will impress any chocolate lover. Farzana creates a rich and fudgy chocolate cake, which is layered with a silky smooth hazelnut buttercream and topped with crunchy hazelnut praline.",
+              "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+              "ingredients": [
+                "200g hazelnuts",
+                "200g dark chocolate",
+                "200g unsalted butter, softened",
+                "150g sugar",
+                "5 eggs",
+                "50g plain flour",
+                "1 tsp baking powder"
+              ],
+              "cooking_method": [
+                "Preheat oven to 180°C and grease a cake tin.",
+                "Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.",
+                "In a food processor, grind the hazelnuts until fine.",
+                "Melt the chocolate in a heatproof bowl set over a pan of simmering water.",
+                "In a separate bowl, cream the butter and sugar until light and fluffy.",
+                "Add the eggs, one at a time, beating well after each addition.",
+                "Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.",
+                "Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.",
+                "Once cooled, decorate with icing sugar and extra hazelnuts.",
+                "Serve and enjoy!"]
+            },
+            {
+              "name": "Shorshe Ilish",
+              "type": "Fish",
+              "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+              "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+              "ingredients": [
+                "Ilish fish",
+                "Mustard oil",
+                "Mustard paste",
+                "Turmeric",
+                "Green chillies",
+                "Salt",
+                "Sugar",
+                "Water"
+              ],
+              "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+              "rating": 4.5
+            }
+          
+        ]
+      } ,
+      {
+        "id" :  5156050,
+        "name": "Nahid Hussain",
+        "bio": "Nadia Hussain is a well-known Bangladeshi chef who has been passionate about cooking since she was a child. She learned to cook from her mother and grandmother, and developed a love for using fresh, local ingredients to create delicious and healthy meals. Nadia's cooking style is a fusion of traditional Bangladeshi recipes and modern techniques, and she is particularly known for her use of fresh herbs and spices to add flavor to her dishes. In her free time, Nadia enjoys traveling around Bangladesh to discover new ingredients and cooking techniques.",
+        "image": "https://c8.alamy.com/comp/BT0W3X/young-happy-male-indian-chef-presenting-dessert-in-commercial-kitchen-BT0W3X.jpg",
+        "experience": 15,
+        "likes": 8000,
+        "recipes": [
+            {
+                "name": "Shorshe Ilish",
+                "type": "Fish",
+                "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+                "image": "https://i.ibb.co/s69zB24/banner-2.jpg",
+                "ingredients": [
+                  "Ilish fish",
+                  "Mustard oil",
+                  "Mustard paste",
+                  "Turmeric",
+                  "Green chillies",
+                  "Salt",
+                  "Sugar",
+                  "Water"
+                ],
+                "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+                "rating": 4.5
+              },
+          {
+            "name": "Biryani",
+            "type": "Rice",
+            "description": "Biryani is a classic Bangladeshi dish made with aromatic rice and meat, usually beef or chicken. The meat is first marinated with spices and yogurt, and then cooked with rice and a blend of spices, including cinnamon, cardamom, and bay leaves. This dish is typically served with raita, a yogurt-based sauce.",
+            "image": "https://i.ibb.co/F0nTXY5/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
+            "ingredients": [
+                "2 cups basmati rice",
+                "2 lbs chicken or lamb, cut into pieces",
+                "1 cup yogurt",
+                "1 large onion, sliced",
+                "4 garlic cloves, minced",
+                "1 inch piece of ginger, minced",
+                "1/2 tsp turmeric powder",
+                "1/2 tsp chili powder",
+                "1 tsp cumin powder",
+                "1 tsp coriander powder",
+                "4-5 cardamom pods",
+                "4-5 cloves",
+                "1 cinnamon stick",
+                "2 bay leaves",
+                "1/4 cup ghee",
+                "Salt, to taste",
+                "4 cups water"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+              "rating": 4.5
+          },
+          {
+            "name": "Mutton Curry",
+            "type": "Meat",
+            "description": "Mutton Curry is a popular Bangladeshi dish made with tender pieces of mutton cooked in a rich and aromatic gravy made with onions, tomatoes, and a blend of spices, including ginger, garlic, and cumin. This dish is best served with steamed rice and a side of vegetable curry.",
+            "image": "https://i.ibb.co/ZxvNGyF/banner-3.jpg",
+            "ingredients": [
+              "500g bone-in mutton",
+              "2 onions, sliced",
+              "2 tomatoes, chopped",
+              "2 tbsp ginger-garlic paste",
+              "1 tbsp red chili powder",
+              "1 tsp turmeric powder",
+              "1 tsp coriander powder",
+              "1 tsp cumin powder",
+              "1 tsp garam masala powder",
+              "2 bay leaves",
+              "3 cardamom pods",
+              "2 cinnamon sticks",
+              "3 cloves",
+              "3 tbsp oil",
+              "Salt to taste"
+            ],
+            "cooking_method": 
+            "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+            "rating": 4.8
+          },
+          {
+            "name": "Luchi",
+            "type": "Bread",
+            "description": "Luchi is a popular Bangladeshi bread made with flour, water, and salt, and deep-fried until golden brown. It is often served with a variety of curries, such as chana dal or aloo bhaji. Luchi is a popular breakfast food in Bangladesh and is also served during festivals and special occasions.",
+            "image": "https://i.ibb.co/PWBVhgK/gugappa.png",
+            "ingredients": [
+                "2 cups all-purpose flour",
+                "1/2 tsp salt",
+                "1 tbsp ghee",
+                "3/4 cup warm water",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+              "rating": 4.0
+          },
+          {
+            "name": "Chapli Kebab",
+            "type": "Appetizer",
+            "description": "Chapli Kebab is a spicy and flavorful appetizer that is popular in Bangladesh. It is made with ground beef or lamb mixed with a blend of spices, including cumin, coriander, and chili powder. The meat is then formed into patties and pan-fried until golden brown. This dish is typically served with a side of mint yogurt sauce.",
+            "image": "https://i.ibb.co/YB4ygjX/banner-4.jpg",
+            "ingredients": [
+                "500g ground beef",
+                "2 eggs",
+                "2 tomatoes, finely chopped",
+                "1 onion, finely chopped",
+                "1 tsp ginger paste",
+                "1 tsp garlic paste",
+                "2 tsp coriander powder",
+                "2 tsp cumin powder",
+                "1 tsp red chili powder",
+                "1 tsp garam masala",
+                "1/4 cup fresh coriander leaves, finely chopped",
+                "Salt to taste",
+                "Oil for frying"
+              ],
+              "cooking_method": 
+                "In a large bowl, combine the ground beef, eggs, tomatoes, onion, ginger paste, garlic paste, coriander powder, cumin powder, red chili powder, garam masala, and salt. Mix well and let it marinate for 30 minutes.Heat the oil in a large pan over medium heat. Take a small portion of the mixture, shape it into a round patty, and place it in the pan. Repeat with the remaining mixture.Cook the kebabs for 4-5 minutes on each side or until golden brown.Serve hot with mint chutney and naan bread.",
+              
+              "rating": 4.5
+            },
+            {
+              "name": "Rose Macarons",
+              "type": "Dessert",
+              "description": "Rose macarons are a delicate and delicious French pastry that are perfect for any occasion. Farzana uses fresh rose petals to infuse the macaron shells with a subtle floral flavor, which pairs perfectly with a rich and creamy white chocolate ganache filling.",
+              "image": "https://i.ibb.co/cbnnbGC/rasgulla-recipe-bengali-rosogulla-how-to-make-sponge-rasgulla-1-682x1024.jpg",
+              "ingredients": [
+                "110g almond flour",
+                "200g icing sugar",
+                "100g egg whites (aged overnight)",
+                "40g granulated sugar",
+                "1 tsp rose water",
+                "Pink food coloring (optional)",
+                "Buttercream or jam for filling"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!",
+              "rating": 4.8
+            },
+            {
+              "name": "Chocolate Hazelnut Cake",
+              "type": "Dessert",
+              "description": "This decadent chocolate hazelnut cake is a showstopper dessert that will impress any chocolate lover. Farzana creates a rich and fudgy chocolate cake, which is layered with a silky smooth hazelnut buttercream and topped with crunchy hazelnut praline.",
+              "image": "https://i.ibb.co/ZxvNGyF/banner-3.jpg",
+              "ingredients": [
+                "200g hazelnuts",
+                "200g dark chocolate",
+                "200g unsalted butter, softened",
+                "150g sugar",
+                "5 eggs",
+                "50g plain flour",
+                "1 tsp baking powder"
+              ],
+              "cooking_method": 
+              "Preheat oven to 180°C and grease a cake tin.Toast hazelnuts in the oven for 10-15 minutes or until golden brown, then remove and allow to cool.In a food processor, grind the hazelnuts until fine.Melt the chocolate in a heatproof bowl set over a pan of simmering water.In a separate bowl, cream the butter and sugar until light and fluffy.Add the eggs, one at a time, beating well after each addition.Fold in the hazelnuts, chocolate, flour, and baking powder until well combined.Transfer the mixture to the prepared cake tin and bake for 35-40 minutes or until a skewer inserted into the center comes out clean.Once cooled, decorate with icing sugar and extra hazelnuts.Serve and enjoy!"
+            },
+            {
+              "name": "Shorshe Ilish",
+              "type": "Fish",
+              "description": "Shorshe Ilish is a popular Bangladeshi dish made with Hilsa fish, a local delicacy. The fish is cooked in a mustard sauce with spices like turmeric, cumin, and coriander, which gives it a tangy and flavorful taste. This dish is typically served with steamed rice and a side of fried eggplant.",
+              "image": "https://i.ibb.co/YB4ygjX/banner-4.jpg",
+              "ingredients": [
+                "Ilish fish",
+                "Mustard oil",
+                "Mustard paste",
+                "Turmeric",
+                "Green chillies",
+                "Salt",
+                "Sugar",
+                "Water"
+              ],
+              "cooking_method": "Clean the fish and marinate with salt and turmeric. Heat mustard oil in a pan and fry the fish till golden brown. Remove the fish from the pan and set aside. In the same pan, add mustard paste, green chillies, turmeric, salt, sugar and water. Mix well and bring it to a boil. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+              "rating": 4.5
+            }
+          
+        ]
+        
+      }    
+    
+]
